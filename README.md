@@ -14,3 +14,5 @@
   https://github.com/kaedea/Android-Cloud-TagView-Plus  Android上的云标签控件
   
   https://github.com/android-cjj/Android-MaterialRefreshLayout 下拉刷新控件
+
+  https://github.com/lovetuzitong/MultiImageSelector  图片选择器
