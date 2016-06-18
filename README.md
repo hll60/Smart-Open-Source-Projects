@@ -16,3 +16,5 @@
   https://github.com/android-cjj/Android-MaterialRefreshLayout 下拉刷新控件
 
   https://github.com/lovetuzitong/MultiImageSelector  图片选择器
+  
+  https://github.com/iluwatar/java-design-patterns  设计模式介绍
