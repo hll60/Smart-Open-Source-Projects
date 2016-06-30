@@ -23,4 +23,4 @@
 
   https://github.com/bluelinelabs/LoganSquare   Json解析
   
-  https://github.com/Jude95/EasyRecyclerView    方便时用的RecyclerView，支持下拉刷新和上啦加载
+  https://github.com/Jude95/EasyRecyclerView    方便时用的RecyclerView，支持下拉刷新和上拉加载
